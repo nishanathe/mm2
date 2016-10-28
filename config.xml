@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.marcellin.marcellinmobile"
+        id        = "com.marcellin.marcellin.mobile"
         versionCode = "2016"
         version   = "1.0.0">
     <name>MyMarcellin</name>
@@ -11,7 +11,7 @@
         MyMarcellin Mobile 
     </description>
 
-    <author href="http://marcellin.vic.edu.au" email="it.marcellin.college@gmail.com">
+    <author href="http://marcellin.vic.edu.au/moodle19" email="it.marcellin.college@gmail.com">
        Marcellin College
     </author>
 
